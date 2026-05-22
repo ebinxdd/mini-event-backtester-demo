@@ -40,9 +40,3 @@ Return: ...
 Trades: ...
 ```
 
-## Why This Repo Exists
-
-I am a solo developer building AI-assisted automation products, including trading research
-and backtesting infrastructure. This public demo is a verification artifact that shows the
-type of tooling I build while keeping production systems private for IP and security reasons.
-
